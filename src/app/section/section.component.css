@@ -1,0 +1,32 @@
+.dactrung{
+    background-color: rgb(195, 202, 202);
+    height: 50px;
+    padding-top: 5px;
+    padding-left: 30px;
+    margin-top: 10px;
+    border-left: 5px solid rgb(11, 12, 12);
+}
+#sori{
+    padding-top: 25px;
+}
+.w25{
+    width: 25%;
+}
+table th{
+    background: #f0f0f0;
+    padding: 9px 12px 8px;
+    vertical-align: middle;
+    text-align: left;
+    font-weight: bold;
+    border: 1px solid #d8d8d6;
+}
+table td{
+    margin-left: 5px;
+    border: 1px solid #d8d8d6;
+    font-weight: normal;
+    padding: 8px 10px 7px 10px;
+    font-size: 100%;
+    vertical-align: top;
+    line-height: 23px;
+    text-align: justify;
+}

@@ -1,0 +1,22 @@
+#head{
+    background-color: aliceblue;
+    height: 150px;
+}
+.navbar-brand{
+    float: left;
+    width: 30%;
+}
+#sori{
+    width: 80%;
+    height: 100%;
+}
+.nav-link{
+    color: aliceblue;
+    
+}
+.nav-link:hover{
+    color: brown;
+    display: block;
+    line-height: 1;
+    border-bottom:2px solid #3e25cc ;
+}
